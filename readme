@@ -1,6 +1,1 @@
-echo "# Magia-Potentia" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Vaeelin/Magia-Potentia.git
-git push -u origin master
+This is where I'm going to share Magia Potentia releases before they are confirmed by Twitch. Please note that they should be considered unstable updates. :)
